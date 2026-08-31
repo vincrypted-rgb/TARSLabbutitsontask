@@ -8,6 +8,6 @@ The [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSh
 >
 > Treat the Result Sheet as a reference point, not an answer key. If the activity you're investigating appears here, use it as a guiding point. If it doesn't, use the logic behind this sheet to give direction for your next steps. 
 
-> ### Important Links!
+> [!IMPORTANT]
 > [JPCERT Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
 > [Detecting Lateral Movement through Tracking Event Logs (Version 2)](DetectingLateralMovementThroughTrackingEventLogs_version2)
