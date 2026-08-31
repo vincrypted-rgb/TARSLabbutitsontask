@@ -17,7 +17,7 @@ You do **not** need a VM. However, the first link is the Result sheet itself and
 
 Upon accessing the result sheet, I'd familiarize myself with its' purpose and contents. Any unfamiliar vocabulary, and especially this table:
 
-[table_1](table_1)
+![table_1](table_1)
 
 Pop quiz! (When you're ready. Multiple answers are possible, but is not always guaranteed or required. Pick what you think is the most correct. LOOK UP THE ANSWERS YOU NEED TO KNOW THESE TERMS)
 
