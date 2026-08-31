@@ -57,13 +57,13 @@ Pop quiz! (When you're ready. Multiple answers are possible, but is not always g
 - [ ] Use of, and happiness with the accessibility features. And request to clean up printers.
 - [ ] How little your mouse moves. It's designed to keep you focused in the workplace.
 
-#7. What is a Packet? Why do malicious actors want to capture them? *(0/2)*
-- [x] Small part of a message being sent over the internet; if they're able to crack the code on it, they'll have access to information
-- [ ] Tech jargon. Packets aren't real. they literally tap the wires and extract the data like sap to feed their energy. it can't be envelopes.
+#7. What is a Packet? Why do malicious actors want to capture them? 
+- [x] Unit of data being sent over the internet; gives access to session and network info in a way that might make someone vulnerable
 - [ ] Evil hacker mwuahahahah ; it was the only thing they could figure out.
-- [ ] not the food?; because they're hungry?
+- [ ] A hardware component used to encrypt security keys; to siphon your PCIe speeds and hack you while your computer is slow
+- [ ] a food?; because they're hungry?
 
-#8. What two things do you (hypothetically) need installed to get the logs you need for this lab? *(0/2)*
+#8. What two things would someone looking to use the Result Sheet need to set up before their system would start logging the correct events? *(0/2)*
 -  [ ] Windows subsystem for Linux
 -  [x] Audit Policy
 -  [x] Sysmon (and a configuration file)
